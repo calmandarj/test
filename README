@@ -2,6 +2,10 @@ test-changed this line
 added this line-second user modified this
 second user added here
 second user added this after commit removed first user's addition
-first user - add data
 1 - master - more more data after 2nd user syncs
 1 - master - new data
+2nd user - add branch
+first user more work - modified due to changes in master
+2nd user - b1 - more data
+first user - add data
+2nd user - b1 - new data
